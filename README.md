@@ -13,7 +13,7 @@ In this project, I will try and answer a couple question and explain relation be
 
 ## Data Description
 
-Using three datasets, I've merged them together based on player names. I then shorten the dataset from 1947 to 1994 extending to 2024 in order to find 
+Using two datasets, I've merged them together based on player names. I then shorten the dataset from 1947 to 1994 extending to 2024 in order to find 
 relevant statistics on modern basketball played today.
 I also removed any rows that aren't NBA, found all the null values and replaced them with the value 0. Most null values were averages,
 and do make sense in this case.
