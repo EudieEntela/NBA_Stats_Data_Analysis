@@ -1,5 +1,6 @@
 # Final Capstone Project Proposal Outline
-Below is an outline for what you need to include in your Final Project Proposal document. 
+
+EUDIE ENTELA - Final Capstone Project Proposal Outline 
 
 ## I. Introduction
 
