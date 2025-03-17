@@ -1,6 +1,6 @@
 # NBA Teams and Players Statistics From Year 1994 to 2024 Data Analysis
 
-##Summary
+## Summary
 In this project, I will try and answer a couple question and explain relation between data found:
 
 - The lowest average team age vs. the highest average team age for each year
